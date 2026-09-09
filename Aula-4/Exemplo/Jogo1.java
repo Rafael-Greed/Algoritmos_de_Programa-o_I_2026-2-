@@ -14,6 +14,9 @@ Double pontos = entrada.nextDouble();
 if (pontos >= 1000) {
 
 System.out.println("Parabéns! Você passou para a fase 2.");
+}else{
+    System.out.println("Infelizmente você não passou para a fase 2, temte novamente.");
+}
 
 System.out.println("Siga para a proxima etapa.");
 
