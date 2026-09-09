@@ -1,1 +1,0 @@
-# Algoritmos-de-Programa-o-I-2026-2
