@@ -12,10 +12,12 @@ public class At1 {
 
         double D2 = N1/2;
 
-        if (N1 > 20 ){
+        if (N1 > 20) {
 
             System.out.println( "Seu Número é: " + D2);
 
+        }else{
+            System.out.println("O número digitado não é maior que 20.");
         }
 
         entrada.close(); 
