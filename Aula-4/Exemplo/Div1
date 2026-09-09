@@ -1,0 +1,25 @@
+package Exemplo;
+
+import java.util.Scanner;
+
+public class Div1 {
+
+    public static void main(String[] args) {
+        
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite o numero inteiro ");
+
+        int N1 = entrada.nextInt();
+
+        if ((N1 % 2) == 0) {
+
+            System.out.println( N1 +" Seu Número é Par");
+
+        }else{
+
+            System.out.println( N1 +" É um número Impar.");
+        }
+
+        entrada.close(); 
+    }
+}
