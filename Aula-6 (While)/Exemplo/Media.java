@@ -1,5 +1,4 @@
-package Exemplo;
- 
+
 import  java.util.Scanner;
 
 public class Media{
