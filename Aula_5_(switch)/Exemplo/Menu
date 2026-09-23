@@ -1,0 +1,37 @@
+package Exemplo;
+
+import java.util.Scanner;
+
+public class Menu {
+    public static void main(String[] args) {
+        System.out.println("======Menu de Opções======");
+        System.out.println("1 - Cadastrar Produtos:");
+        System.out.println("2 - Visualizar Produtos:");
+        System.out.println("3 - Sair do sistema ");
+        System.out.println("4 - Escolha uma opção: ");
+
+        Scanner entrada = new Scanner(System.in);
+        int menu = entrada.nextInt();
+
+        switch (menu) {
+            case 1:
+                System.out.println("Você escolheu a opção 1 - Cadastrar Produtos.");
+                // Aqui você pode chamar a classe do menu, por exemplo:
+                // menu.main(null);
+                break;
+            case 2:
+                System.out.println("Você escolheu a opção 2 - Visualizar Produtos.");
+                // Aqui você pode chamar a classe do menu, por exemplo:
+                    // menu.main(null);
+                    break;
+            case 3:
+                System.out.println("Você escolheu a opção 3 - Sair do sistema.");
+                // Aqui você pode adicionar a lógica para sair do sistema.
+                break;
+            default:
+                System.out.println("Opção inválida. Tente novamente.");
+                break;
+        }
+        entrada.close();
+    }
+}
