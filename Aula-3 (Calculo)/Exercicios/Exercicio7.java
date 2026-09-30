@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class Exercicio7 {
+ class Exercicio7 {
     public static void main(String[] args) {
 
         // Expressão 1: ((120 - 30) == (3 * 30))

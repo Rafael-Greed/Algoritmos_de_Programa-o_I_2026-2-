@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class Exercicio10 {
+ class Exercicio10 {
     public static void main(String[] args) {
         // Raio do círculo em centímetros
         double raio = 5.0;

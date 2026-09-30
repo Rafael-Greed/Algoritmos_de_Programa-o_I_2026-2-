@@ -3,7 +3,7 @@ package Exercicios;
 // Importa a classe Scanner, necessária para ler entradas digitadas no teclado
 import java.util.Scanner;
 
-public class Exercicio4 {
+class Exercicio4 {
 
     // O método main é o ponto de entrada de execução do programa Java
     public static void main(String[] args) {

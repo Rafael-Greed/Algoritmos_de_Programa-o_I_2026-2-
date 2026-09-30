@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio5 { // Método principal onde o programa começa a ser executado
+class Exercicio5 { // Método principal onde o programa começa a ser executado
     public static void main(String[] args) {
 
         // Instancia o Scanner para capturar as entradas do usuário via console

@@ -3,7 +3,7 @@ package Exercicios;
 // Importa a classe Scanner para permitir a leitura de dados do teclado
 import java.util.Scanner;
 
-public class Exercicio3 {
+class Exercicio3 {
 
     // O método main é a porta de entrada para a execução do programa em Java
     public static void main(String[] args) {

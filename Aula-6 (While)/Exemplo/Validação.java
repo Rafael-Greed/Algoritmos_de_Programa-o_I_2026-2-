@@ -2,7 +2,7 @@ package Exemplo;
 
 import java.util.Scanner;//chamou o scanner
 
-public class validação{
+class Validação{
 
     
 

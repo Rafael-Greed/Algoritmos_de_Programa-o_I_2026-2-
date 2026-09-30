@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class Exercicio9 {
+class Exercicio9 {
     public static void main(String[] args) {
         // Lado do quadrado em metros
         double lado = 350.0;

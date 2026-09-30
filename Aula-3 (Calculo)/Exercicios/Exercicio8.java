@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class Exercicio8 {
+class Exercicio8 {
     public static void main(String[] args) {
         
         // Declaração e atribuição das notas diretamente nas variáveis

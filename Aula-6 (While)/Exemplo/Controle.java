@@ -2,7 +2,7 @@ package Exemplo;
 
 import java.util.Scanner;
 
-public class Controle {
+class Controle {
     public static void main(String[]argo){
         Scanner entrada = new Scanner(System.in);
     
@@ -18,7 +18,7 @@ public class Controle {
          idade = entrada.nextInt();//next= proxima Int= Numero inteiro
 
          if(idade >= 18){//Se idade for maior ou igual a (>=)18
-            System.out.print("Seu Nome é: ");
+            System.out.print("Seu Nome é: " + nome);
          }
 
          System.out.println("Deseja Continuar? Digite 1(Sim) Digite 0(Não):");

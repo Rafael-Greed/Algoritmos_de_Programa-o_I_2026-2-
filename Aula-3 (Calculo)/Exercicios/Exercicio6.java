@@ -2,7 +2,7 @@ package Exercicios;
 
 public class Exercicio6 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         // Uso de tipos decimais (double) para manter a precisão das divisões e potências
         // Expressão 1: (20 - 15) / 2
         double exp1 = (20.0 - 15.0) / 2.0;

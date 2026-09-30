@@ -1,6 +1,6 @@
 package Exemplo;
 
-public class Cont {
+class Cont {
 
 
     public static void main (String[]args){

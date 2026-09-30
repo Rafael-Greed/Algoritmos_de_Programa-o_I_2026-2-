@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class Exercicio1 {
+ class Exercicio1 {
     public static void main(String[] args) {
         
         // Declaração das variáveis do tipo String (texto) para armazenar os dados
